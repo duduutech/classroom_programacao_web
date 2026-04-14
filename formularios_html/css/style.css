@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+}
+
+form{
+
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+
+}
+
+fieldset{
+    padding: 10px;
+
+}
+
+input{
+    margin-bottom: 8px;
+}
